@@ -2,53 +2,53 @@
   "posts": [
     {
         "id": 1,
-        "userName": '@Df_tim',
-        "uri": 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'
+        "userName": "@Df_tim",
+        "uri": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4"
     },
     {
         "id": 2,
-        "userName": '@ort',
-        "uri": 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'
+        "userName": "@ort",
+        "uri": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4"
     },
     {
         "id": 3,
-        "userName": '@kronJ',
-        "uri": 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'
+        "userName": "@kronJ",
+        "uri": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4"
     },
     {
         "id": 4,
-        "userName": '@optNano',
-        "uri": 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'
+        "userName": "@optNano",
+        "uri": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4"
     },
     {
         "id": 5,
-        "userName": '@rick_q',
-        "uri": 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'
+        "userName": "@rick_q",
+        "uri": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4"
     },
     {
         "id": 6,
-        "userName": '@startY',
-        "uri": 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'
+        "userName": "@startY",
+        "uri": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4"
     },
     {
         "id": 7,
-        "userName": '@one_first',
-        "uri": 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'
+        "userName": "@one_first",
+        "uri": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4"
     },
     {
         "id": 8,
-        "userName": '@nonTry',
-        "uri": 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'
+        "userName": "@nonTry",
+        "uri": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4"
     },
     {
         "id": 9,
-        "userName": '@y_tl',
-        "uri": 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'
+        "userName": "@y_tl",
+        "uri": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4"
     },
     {
         "id": 10,
-        "userName": '@pol',
-        "uri": 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'
+        "userName": "@pol",
+        "uri": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4"
     },
   ]
 }
